@@ -116,7 +116,7 @@ function createCube() {
 
 //createAsteroidsInstanced(4000, 1500);
 const geometry = new THREE.IcosahedronGeometry();
-const material = new THREE.MeshPhongMaterial({
+const material = new THREE.MeshStandardMaterial({
   color: 0x664433,
   roughness: 1,
   metalness: 0
