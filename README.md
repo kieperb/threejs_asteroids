@@ -2,6 +2,19 @@
 3d version of asteroids (2d)
 
 
+
+# three.js
+npm install --save three
+
+# vite
+npm install --save-dev vite
+
+# dat.gui
+npm install --save dat.gui
+
+# run
+npx vite
+
 <!-- @format -->
 
 https://threejs.org/examples/physics_ammo_terrain.html
