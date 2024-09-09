@@ -38,3 +38,6 @@ du kannst jederzeit jeden abschießen, aber der naheste wird dir immer angezeigt
 Später im Spiel: gleichzeitig kommen Tie Fighter auf dich zu, sie sind das pirmäre Ziel, denn sie schießen auf dich
 
 noch später: du zerstörst den Sternenzerstörer (Trägerschiff) erst den Schild, dann die Kanonen, dann den Reaktor
+
+# 2024-09-03 00:28
+https://github.com/mrdoob/three.js/blob/master/examples/misc_controls_pointerlock.html#L310
